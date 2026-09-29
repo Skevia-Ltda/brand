@@ -327,8 +327,11 @@ A documentação completa da marca está disponível em:
 - [Origem](./docs/origin.md)
 - [Filosofia](./docs/philosophy.md)
 - [Identidade visual](./docs/visual-identity.md)
+- [Tipografia](./docs/typography.md)
+- [Aplicações](./docs/applications.md)
 - [Uso](./docs/usage.md)
 - [Desenvolvimento do logotipo](./docs/process/logo-development.md)
+- [Validação tipográfica](./docs/process/typography-validation.md)
 
 ---
 
@@ -340,11 +343,14 @@ A documentação completa da marca está disponível em:
 **Direção visual:** fechada<br>
 **Símbolo:** fechado<br>
 **Wordmark:** fechado<br>
-**Construção vetorial:** fechada
+**Construção vetorial:** fechada<br>
+**Paleta base:** fechada<br>
+**Tipografia:** em validação visual<br>
+**Sistema gráfico:** pendente<br>
+**Brand guidelines completas:** pendentes
 
 Os próximos elementos do sistema de marca serão documentados conforme forem consolidados:
 
-- tipografia institucional;
 - sistema gráfico;
 - grids;
 - comportamento das trajetórias;

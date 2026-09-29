@@ -45,6 +45,28 @@ Ele deve aparecer prioritariamente onde algo:
 
 Ele não deve funcionar apenas como decoração.
 
+## Tipografia
+
+Direção atualmente em validação:
+
+**Instrument Sans**
+
+para marca e comunicação institucional.
+
+**Inter**
+
+para produtos e interfaces.
+
+O wordmark continua sendo uma construção vetorial própria.
+
+Ver:
+
+[Tipografia](./typography.md)
+
+Status:
+
+**Visual validation**
+
 ## Arquivos oficiais
 
 Utilizar exclusivamente os SVGs presentes em:
