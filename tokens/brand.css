@@ -1,0 +1,54 @@
+:root {
+  /* BRAND COLORS */
+  --skevia-graphite: #0f1720;
+  --skevia-teal: #0f766e;
+  --skevia-off-white: #f7f6f3;
+  --skevia-mineral: #6b727b;
+
+  /* TYPOGRAPHY */
+  --skevia-font-brand:
+    "Instrument Sans",
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+
+  --skevia-font-product:
+    "Inter",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  --skevia-font-mono:
+    ui-monospace,
+    "SFMono-Regular",
+    Consolas,
+    "Liberation Mono",
+    monospace;
+
+  /* WEIGHTS */
+  --skevia-weight-regular: 400;
+  --skevia-weight-medium: 500;
+  --skevia-weight-semibold: 600;
+
+  /* TYPE SCALE */
+  --skevia-display-xl: clamp(3.5rem, 7vw, 7rem);
+  --skevia-display-lg: clamp(2.75rem, 5vw, 5rem);
+  --skevia-h1: clamp(2.25rem, 4vw, 3.75rem);
+  --skevia-h2: clamp(1.75rem, 3vw, 2.75rem);
+  --skevia-h3: clamp(1.25rem, 2vw, 1.75rem);
+  --skevia-body-lg: 1.125rem;
+  --skevia-body: 1rem;
+  --skevia-body-sm: 0.875rem;
+
+  /* LEADING */
+  --skevia-leading-tight: 1.05;
+  --skevia-leading-heading: 1.1;
+  --skevia-leading-body: 1.55;
+
+  /* TRACKING */
+  --skevia-tracking-display: -0.025em;
+  --skevia-tracking-heading: -0.02em;
+  --skevia-tracking-label: 0.04em;
+}

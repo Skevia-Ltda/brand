@@ -1,0 +1,48 @@
+{
+  "status": {
+    "typography": "visual-validation"
+  },
+  "color": {
+    "graphite": "#0F1720",
+    "teal": "#0F766E",
+    "offWhite": "#F7F6F3",
+    "mineral": "#6B727B"
+  },
+  "typography": {
+    "brand": {
+      "family": "Instrument Sans",
+      "fallback": ["Helvetica Neue", "Arial", "sans-serif"],
+      "weights": [400, 500, 600],
+      "defaultWidth": "100%"
+    },
+    "product": {
+      "family": "Inter",
+      "fallback": ["system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "sans-serif"],
+      "weights": [400, 500, 600]
+    },
+    "mono": {
+      "family": "ui-monospace",
+      "fallback": ["SFMono-Regular", "Consolas", "Liberation Mono", "monospace"]
+    },
+    "scale": {
+      "displayXl": "clamp(3.5rem, 7vw, 7rem)",
+      "displayLg": "clamp(2.75rem, 5vw, 5rem)",
+      "h1": "clamp(2.25rem, 4vw, 3.75rem)",
+      "h2": "clamp(1.75rem, 3vw, 2.75rem)",
+      "h3": "clamp(1.25rem, 2vw, 1.75rem)",
+      "bodyLg": "1.125rem",
+      "body": "1rem",
+      "bodySm": "0.875rem"
+    },
+    "leading": {
+      "tight": 1.05,
+      "heading": 1.1,
+      "body": 1.55
+    },
+    "tracking": {
+      "display": "-0.025em",
+      "heading": "-0.02em",
+      "label": "0.04em"
+    }
+  }
+}
