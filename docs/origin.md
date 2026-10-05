@@ -80,71 +80,15 @@ Essa lógica passou a orientar não apenas o símbolo, mas todo o sistema visual
 
 É uma maneira visual de representar aquilo que a Skevia procura fazer.
 
-## O V
+## A expressão visual
 
-Dentro da própria palavra SKEVIA havia uma oportunidade.
+A palavra SKEVIA carrega o percurso dentro da própria construção. O traço contínuo cria passagem e movimento; o ponto teal marca o momento em que a possibilidade ganha direção.
 
-O V está exatamente entre aquilo que conceitualmente entendemos como SKE e VIA.
+As duas construções atuais exploram essa mesma ideia com ritmos diferentes. A primeira enfatiza uma trajetória ampla sobre o V. A segunda concentra a convergência junto ao I. Ambas preservam a palavra completa e podem ser usadas com ou sem o slogan.
 
-Ele passou a representar o ponto de decisão.
+## A decisão atual
 
-Antes dele:
-
-pensamento, análise, possibilidade.
-
-Depois dele:
-
-direção, continuidade, movimento.
-
-O V tornou-se então o centro visual da identidade.
-
-Não porque precisasse contar toda a história sozinho, mas porque permitia que a própria palavra carregasse parte do conceito da marca.
-
-## O símbolo
-
-O símbolo nasceu da mesma geometria.
-
-Duas formas independentes caminham em direção a um ponto comum.
-
-Elas convergem.
-
-A partir dessa convergência existe direção.
-
-Durante o desenvolvimento foi testado um ponto circular sobre o símbolo.
-
-Ele funcionava conceitualmente como marco ou decisão, mas criava associações indesejadas com uma figura humana, uma planta ou um pássaro.
-
-A versão final abandonou esse ponto.
-
-A convergência passou a ser comunicada exclusivamente pela geometria.
-
-O único ponto preservado aparece no I do wordmark.
-
-## A decisão final
-
-Depois de diferentes explorações, a identidade convergiu para:
-
-**Direção A — Convergência**
-
-com:
-
-**V5**
-
-como base do V;
-
-**S4**
-
-como base do símbolo;
-
-e:
-
-**Final B — sem ponto**
-
-como configuração definitiva.
-
-A partir desse momento, a exploração terminou.
-
-A marca foi reconstruída geometricamente em vetor e passou a possuir uma fonte oficial de arquivos.
+Os logotipos oficiais foram substituídos em 5 de outubro de 2026. A pasta `logo` é a única fonte autorizada para aplicações da marca. Versões anteriores deixaram de fazer parte do repositório para evitar interpretações ambíguas.
 
 ## O que ficou
 

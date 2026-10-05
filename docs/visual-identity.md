@@ -4,23 +4,16 @@
 
 **Convergência**
 
-A identidade visual da Skevia representa o momento em que possibilidades inicialmente distintas encontram uma direção.
+A identidade visual da Skevia representa possibilidades que encontram uma direção. Os logotipos atuais traduzem esse princípio por meio do desenho contínuo da palavra, com Graphite como estrutura e Teal como ponto de decisão.
 
-## Logo
+## Configurações oficiais
 
-Configuração oficial:
+Existem duas construções oficiais:
 
-**V5 + S4 — Final B**
+- `skevia-logo-01`: desenho contínuo com a trajetória a prolongar-se sobre o V;
+- `skevia-logo-02`: construção compacta, com a trajetória a convergir para o ponto do I.
 
-Características:
-
-- símbolo sem ponto;
-- V como elemento central do wordmark;
-- ponto teal exclusivamente no I;
-- formas vetoriais sólidas;
-- ausência de gradientes;
-- ausência de efeitos;
-- construção geométrica limpa.
+Cada construção possui uma versão simples e outra com o slogan **Dar caminho às possibilidades.**
 
 ## Cores
 
@@ -31,58 +24,19 @@ Características:
 | Off-white | `#F7F6F3` | espaço e clareza |
 | Mineral | `#6B727B` | estados intermediários |
 
-## Regra principal
+## Tipografia
 
-O teal possui significado.
+**Instrument Sans** é a direção institucional. **Inter** é utilizada em produtos e interfaces. O logotipo é uma construção vetorial própria e nunca deve ser recriado com uma fonte.
 
-Ele deve aparecer prioritariamente onde algo:
+## Fonte oficial
 
-- é escolhido;
-- ganha direção;
-- avança;
-- é confirmado;
-- se torna ativo.
-
-Ele não deve funcionar apenas como decoração.
-
-## Arquivos oficiais
-
-Utilizar exclusivamente os SVGs presentes em:
-
-`/logo/svg`
-
-Nunca reconstruir a assinatura a partir de uma imagem rasterizada.
-
-## Fundos
-
-Em fundo claro utilizar a versão `primary`.
-
-Em fundo graphite utilizar a versão `light`.
-
-Quando cor não for possível, utilizar as variantes monocromáticas.
-
-## Símbolo
-
-O símbolo pode ser utilizado isoladamente em:
-
-- favicon;
-- app icon;
-- avatar;
-- espaços reduzidos;
-- elementos institucionais.
-
-Sempre preservar sua proporção original.
+Utilize exclusivamente os ficheiros presentes em `logo/svg` e `logo/png`. Os SVGs são a fonte preferencial; os PNGs são alternativas para ambientes sem suporte vetorial.
 
 ## Não fazer
 
-Não:
-
-- distorcer;
-- rotacionar;
-- alterar proporções;
+- distorcer, inclinar ou rotacionar;
+- alterar proporções ou espaçamentos internos;
 - trocar as cores arbitrariamente;
-- adicionar sombra;
-- adicionar gradiente;
-- adicionar ponto ao símbolo;
-- adicionar contornos;
-- recriar o wordmark com outra fonte.
+- adicionar sombras, gradientes, contornos ou efeitos;
+- recriar o logotipo com uma fonte;
+- utilizar qualquer versão anterior da identidade.
