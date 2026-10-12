@@ -6,7 +6,7 @@ Este repositório é a fonte oficial da identidade da Skevia. Ele reúne a docum
 
 ## Logotipos oficiais
 
-Os únicos logotipos vigentes estão em [`logo`](./logo). O conjunto contém duas construções (`01` e `02`), cada uma com uma versão simples e uma versão com o slogan, nos formatos SVG e PNG. Todas estão disponíveis em Graphite para fundos claros e em branco para fundos escuros, sempre com o ponto Teal e fundo transparente.
+Os únicos logotipos vigentes estão em [`logo`](./logo). O conjunto contém duas construções (`01` e `02`), cada uma com uma versão simples e uma versão com o slogan, nos formatos SVG e PNG. Todas estão disponíveis em Graphite para fundos claros e em branco para fundos escuros, sempre com o ponto turquesa vivo (`#00C9A7`) e fundo transparente.
 
 | Construção | SVG | PNG |
 | --- | --- | --- |

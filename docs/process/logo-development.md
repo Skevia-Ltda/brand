@@ -13,3 +13,7 @@ As versões anteriores, os ficheiros de exploração e as pranchas que continham
 Em 12 de outubro de 2026, foram acrescentadas quatro variantes com o sufixo `-white`, cobrindo as duas construções com e sem slogan. Derivam diretamente dos SVGs atuais: apenas Graphite (`#0F1720`) foi substituído por branco (`#FFFFFF`), preservando o ponto Teal, os traçados, o `viewBox` e as proporções.
 
 Os PNGs das variantes brancas são exportados a partir desses SVGs, com fundo transparente e as mesmas dimensões dos PNGs originais (2000 pixels de largura).
+
+## Cor do ponto
+
+O ponto das oito versões passou de Teal (`#0F766E`) para turquesa vivo (`#00C9A7`), para dar mais presença à marca em fundos claros e escuros. Os traçados e as cores do lettering e do slogan foram preservados. Todos os PNGs foram reexportados a partir dos SVGs com as dimensões originais e fundo transparente.
