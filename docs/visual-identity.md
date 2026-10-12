@@ -4,7 +4,7 @@
 
 **Convergência**
 
-A identidade visual da Skevia representa possibilidades que encontram uma direção. Os logotipos atuais traduzem esse princípio por meio do desenho contínuo da palavra, com Graphite como estrutura e Teal como ponto de decisão.
+A identidade visual da Skevia representa possibilidades que encontram uma direção. Os logotipos atuais traduzem esse princípio por meio do desenho contínuo da palavra, com Graphite como estrutura e turquesa vivo como ponto de decisão.
 
 ## Configurações oficiais
 
@@ -15,14 +15,15 @@ Existem duas construções oficiais:
 
 Cada construção possui uma versão simples e outra com o slogan **Dar caminho às possibilidades.**
 
-Para fundos claros, a estrutura e o slogan usam Graphite. Nas variantes `-white`, destinadas a fundos escuros, essas mesmas formas usam branco (`#FFFFFF`). O ponto Teal, as proporções e a transparência são preservados em todas as versões.
+Para fundos claros, a estrutura e o slogan usam Graphite. Nas variantes `-white`, destinadas a fundos escuros, essas mesmas formas usam branco (`#FFFFFF`). O ponto turquesa vivo, as proporções e a transparência são preservados em todas as versões.
 
 ## Cores
 
 | Token | Hex | Função |
 | --- | --- | --- |
 | Graphite | `#0F1720` | estrutura |
-| Teal | `#0F766E` | decisão e direção |
+| Teal | `#0F766E` | cor base de interfaces |
+| Turquesa vivo | `#00C9A7` | ponto de decisão do logotipo |
 | Off-white | `#F7F6F3` | espaço e clareza |
 | Mineral | `#6B727B` | estados intermediários |
 
