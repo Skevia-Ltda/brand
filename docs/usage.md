@@ -7,7 +7,7 @@ Os únicos assets oficiais estão em `logo/svg` e `logo/png`.
 ## Escolha da construção
 
 - Use `skevia-logo-01.svg` ou `skevia-logo-02.svg` quando o slogan não for necessário.
-- Use os ficheiros terminados em `-slogan.svg` em materiais institucionais que comportem a assinatura completa.
+- Use os ficheiros com `-slogan` no nome em materiais institucionais que comportem a assinatura completa.
 - Prefira SVG. Recorra ao PNG correspondente apenas quando o canal não aceitar vetores.
 
 ## Proporção e área de respiro
@@ -16,13 +16,16 @@ Escale sempre proporcionalmente e preserve espaço livre ao redor do logotipo. N
 
 ## Fundo
 
-Os ficheiros fornecidos foram preparados para fundos claros. Para aplicações sobre fundos escuros, utilize uma área clara de proteção até existir uma variante oficial específica.
+- Em fundos claros, use os ficheiros originais em Graphite, sem o sufixo `-white`.
+- Em fundos escuros ou pretos, use as variantes terminadas em `-white.svg` ou `-white.png`. A estrutura e o slogan são brancos, e o ponto Teal é preservado.
+- Todas as versões possuem fundo transparente. Escolha um fundo uniforme que permita ler a marca e o slogan com clareza.
 
 ## Cor
 
 Preserve as cores incorporadas nos ficheiros oficiais:
 
-- Graphite: `#0F1720`;
+- Graphite: `#0F1720` nas versões para fundos claros;
+- Branco: `#FFFFFF` nas variantes `-white` para fundos escuros;
 - Teal: `#0F766E`.
 
 ## Elementos proibidos

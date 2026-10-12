@@ -6,7 +6,7 @@ Este repositório é a fonte oficial da identidade da Skevia. Ele reúne a docum
 
 ## Logotipos oficiais
 
-Os únicos logotipos vigentes estão em [`logo`](./logo). O conjunto contém duas construções (`01` e `02`), cada uma com uma versão simples e uma versão com o slogan, nos formatos SVG e PNG.
+Os únicos logotipos vigentes estão em [`logo`](./logo). O conjunto contém duas construções (`01` e `02`), cada uma com uma versão simples e uma versão com o slogan, nos formatos SVG e PNG. Todas estão disponíveis em Graphite para fundos claros e em branco para fundos escuros, sempre com o ponto Teal e fundo transparente.
 
 | Construção | SVG | PNG |
 | --- | --- | --- |
@@ -14,6 +14,10 @@ Os únicos logotipos vigentes estão em [`logo`](./logo). O conjunto contém dua
 | Logo 01 com slogan | `logo/svg/skevia-logo-01-slogan.svg` | `logo/png/skevia-logo-01-slogan.png` |
 | Logo 02 | `logo/svg/skevia-logo-02.svg` | `logo/png/skevia-logo-02.png` |
 | Logo 02 com slogan | `logo/svg/skevia-logo-02-slogan.svg` | `logo/png/skevia-logo-02-slogan.png` |
+| Logo 01 branca | `logo/svg/skevia-logo-01-white.svg` | `logo/png/skevia-logo-01-white.png` |
+| Logo 01 branca com slogan | `logo/svg/skevia-logo-01-slogan-white.svg` | `logo/png/skevia-logo-01-slogan-white.png` |
+| Logo 02 branca | `logo/svg/skevia-logo-02-white.svg` | `logo/png/skevia-logo-02-white.png` |
+| Logo 02 branca com slogan | `logo/svg/skevia-logo-02-slogan-white.svg` | `logo/png/skevia-logo-02-slogan-white.png` |
 
 Use SVG sempre que o suporte técnico permitir. Use PNG apenas quando o formato vetorial não for aceite. Não utilize ficheiros de versões anteriores da identidade.
 

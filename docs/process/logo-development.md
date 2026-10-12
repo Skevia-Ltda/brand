@@ -7,3 +7,9 @@ O pacote foi validado e consolidado em duas construções, cada uma disponível 
 Os SVGs possuem `viewBox` e título acessível, usam apenas formas vetoriais e preservam as cores oficiais Graphite (`#0F1720`) e Teal (`#0F766E`). Os PNGs correspondentes possuem fundo transparente e largura de 2000 pixels.
 
 As versões anteriores, os ficheiros de exploração e as pranchas que continham a identidade substituída foram removidos para evitar uso acidental. A fonte de verdade atual é exclusivamente a pasta `logo`.
+
+## Variantes para fundos escuros
+
+Em 12 de outubro de 2026, foram acrescentadas quatro variantes com o sufixo `-white`, cobrindo as duas construções com e sem slogan. Derivam diretamente dos SVGs atuais: apenas Graphite (`#0F1720`) foi substituído por branco (`#FFFFFF`), preservando o ponto Teal, os traçados, o `viewBox` e as proporções.
+
+Os PNGs das variantes brancas são exportados a partir desses SVGs, com fundo transparente e as mesmas dimensões dos PNGs originais (2000 pixels de largura).

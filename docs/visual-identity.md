@@ -15,6 +15,8 @@ Existem duas construções oficiais:
 
 Cada construção possui uma versão simples e outra com o slogan **Dar caminho às possibilidades.**
 
+Para fundos claros, a estrutura e o slogan usam Graphite. Nas variantes `-white`, destinadas a fundos escuros, essas mesmas formas usam branco (`#FFFFFF`). O ponto Teal, as proporções e a transparência são preservados em todas as versões.
+
 ## Cores
 
 | Token | Hex | Função |
